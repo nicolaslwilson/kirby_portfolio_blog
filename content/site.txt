@@ -1,0 +1,13 @@
+Title: NicWilson.tech
+
+----
+
+Author: Nic Wilson
+
+----
+
+Description: Nic Wilson - Full Stack Software Engineer - Portfolio site and blog
+
+----
+
+Copyright: © (date: Year) Nic Wilson

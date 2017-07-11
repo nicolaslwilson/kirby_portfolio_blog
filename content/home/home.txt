@@ -1,0 +1,10 @@
+Title: Hello World
+
+----
+
+Intro: Nic Wilson is a Full Stack Software Engineer based in downtown Minneapolis, Minnesota. 
+
+----
+
+Text: 
+
